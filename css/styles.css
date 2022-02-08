@@ -1,0 +1,29 @@
+.bg-default {
+  background-color: #e6dad8;
+}
+
+.navbar-brand img {
+  width: 80px;
+}
+
+.navbar-collapse {
+  flex-grow: initial;
+}
+
+.cart-icon {
+  width: 24px;
+}
+
+.footer__redes img {
+  width: 30px;
+  margin: 10px;
+}
+
+.footer__politicas {
+  display: flex;
+  margin-left: auto;
+}
+
+.footer__politicas li {
+  margin: 10px;
+}
